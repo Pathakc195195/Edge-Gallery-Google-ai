@@ -68,7 +68,7 @@
         "maxTokens": 1024,
         "accelerators": "cpu"
       },
-      "taskTypes": ["llm_chat", "llm_prompt_lab"]
+      "taskTypes": ["llm_expo", "llm_prompt_lab"]
     }
   ]
 }
